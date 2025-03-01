@@ -1,6 +1,6 @@
 # Practice with git and GitHub
 
-I'm Shillisa and I edited this file! 
+I'm Shillisa and I edited this file!  
 
 \[Your Step 3 Edit Here\]
 
